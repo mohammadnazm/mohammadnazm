@@ -1,6 +1,6 @@
 ﻿<!-- [![MasterHead](https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1800x500.jpg)](https://mohammadnazm.io) -->
 <h1 align="center">Hi 👋, I'm Mohammad Nazm</h1>
-<h3 align="center">Software Engineer | Fullstack| Freelance Frontend Developer | MERN | Spring</h3>
+<h3 align="center">Software Engineer | Fullstack | Freelance Frontend Developer | MERN | Spring</h3>
 <img align="right" alt="Coding" with="400" src="https://www.lambdatest.com/resources/images/news24.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadnazm&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadnazm" /></p>
 
