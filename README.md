@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [...](...)
 
-- 💬 Ask me about **React, Next, Node, Nest, Spring**
+- 💬 Ask me about **React, Next, Node, Nest**
 
 - 📫 How to reach me **mhamadnazm53@gmail.com**
 
