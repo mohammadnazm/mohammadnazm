@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on My Portfolio
 
-- 🌱 I’m currently learning **Next js, Nest js and Always Js**
+- 🌱 I’m currently learning **Nest js**
 
 - 👯 I’m looking to collaborate on **Open Source Web Application**
 
